@@ -14,4 +14,5 @@ If you encounter/find an error or can adjust the script more optimally, please l
 ```r
 library(tidyverse)
 library(tidymodels)
+library(ggplot2)
 ```
